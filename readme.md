@@ -27,10 +27,6 @@ Using Intern Info, you can use an employee’s salary data to:
  - Calculate employee bonuses
  - Calculate the total amount an employee can be reimbursed based on the total value of their health, housing, or wellness benefits
 
-Intern Info currently contains the data and functions in a single file, though they would like to modify the program so it makes use of JavaScript modules. 
-
-Specifically, Intern Info asks you to demonstrate the different ways to export and import modules. 
-
 I hope you enjoy it!
 
 <a  id="applied-technologies"></a>
