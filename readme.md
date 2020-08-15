@@ -21,7 +21,7 @@ Intern Info is a human resources program that returns basic information about an
 
 Using Intern Info, you can use an employee’s salary data to:
 
- - Return the board of the of the employee, in other words, whether this employee is Junior level, Mid level, or Senior level
+ - Return the role of the of the employee, in other words, whether this employee is Junior level, Mid level, or Senior level
  - Calculate employee tax rates
  - Return employee benefits
  - Calculate employee bonuses
